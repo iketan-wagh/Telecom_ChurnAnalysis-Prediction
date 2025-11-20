@@ -7,6 +7,11 @@ A complete **ETL + Data Engineering + BI Analytics + Machine Learning** project 
 
 ## 🚀 Project Overview
 
+<img width="1460" height="816" alt="Dashboard" src="https://github.com/user-attachments/assets/0e903b62-e8b5-4141-b451-1f775a47f506" />
+
+
+<img width="1460" height="813" alt="Prediction" src="https://github.com/user-attachments/assets/c5dcd4c6-07e8-4bc3-a3e1-a2ec324888ce" />
+
 Customer churn is one of the most critical KPIs in subscription-based industries. This project provides an end-to-end framework that:
 
 * Builds a full **ETL pipeline in SQL Server**
