@@ -4,6 +4,7 @@ A complete **ETL + Data Engineering + BI Analytics + Machine Learning** project 
 
 ---
 
+
 ## 🚀 Project Overview
 
 Customer churn is one of the most critical KPIs in subscription-based industries. This project provides an end-to-end framework that:
@@ -89,6 +90,8 @@ Source CSV → SQL Server Staging → Data Cleaning & Transformations → Produc
 
 ### **Dashboard 1: Telecom Customer Churn Analysis**
 
+<img width="1460" height="816" alt="Dashboard" src="https://github.com/user-attachments/assets/0e903b62-e8b5-4141-b451-1f775a47f506" />
+
 Includes:
 
 * KPIs (Total Customers, Total Churn, Churn Rate, New Joiners)
@@ -98,7 +101,7 @@ Includes:
 * Churn Category & Reason Breakdown
 
 ### **Dashboard 2: Churn Prediction**
-
+<img width="1460" height="813" alt="Prediction" src="https://github.com/user-attachments/assets/c5dcd4c6-07e8-4bc3-a3e1-a2ec324888ce" />
 Includes:
 
 * Predicted churner profile (Gender, Age, Tenure, State)
